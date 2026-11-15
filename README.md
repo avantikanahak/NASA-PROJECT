@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot 2026-11-15 125614" src="https://github.com/user-attachments/assets/d296547b-81af-46c2-a157-5e259336fa73" /># 🪐 Solar System Explorer
-
 **🔴 Live Demo: [PASTE YOUR GITHUB PAGES URL HERE](https://YOUR-USERNAME.github.io/YOUR-REPO/)**
 
 > NASA Space Apps Challenge, Nagpur 2026 · Wainganga College of Engineering & Management (WCEM) · AstraVeda 2026 × ICTRD
