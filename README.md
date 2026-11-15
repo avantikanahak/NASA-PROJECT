@@ -1,4 +1,4 @@
-**🔴 Live Demo: [PASTE YOUR GITHUB PAGES URL HERE](https://YOUR-USERNAME.github.io/YOUR-REPO/)**
+**🔴 Live Demo: [PASTE YOUR GITHUB PAGES URL HERE](https://github.com/avantikanahak/NASA-PROJECT)**
 
 > NASA Space Apps Challenge, Nagpur 2026 · Wainganga College of Engineering & Management (WCEM) · AstraVeda 2026 × ICTRD
 
@@ -101,7 +101,7 @@ flowchart TD
 
 ## 4. Live Demo 
 
-- 🌐 **Hosted application:** `[https://YOUR-USERNAME.github.io/YOUR-REPO/]`
+- 🌐 **Hosted application:** https://github.com/avantikanahak/NASA-PROJECT
 
 ---
 
@@ -137,7 +137,7 @@ python -m http.server 8000
 1. Push the project to a public repository, with the main file named `index.html`.
 2. Go to **Settings → Pages**.
 3. Under **Source**, choose the `main` branch and the `/ (root)` folder, then save.
-4. After a minute, the site is live at `https://YOUR-USERNAME.github.io/YOUR-REPO/`.
+4. After a minute, the site is live at https://github.com/avantikanahak/NASA-PROJECT.
 
 **Browser support:** current Chrome, Edge, Firefox, and Safari.
 
