@@ -1,4 +1,4 @@
-**🔴 Live Demo: [PASTE YOUR GITHUB PAGES URL HERE](https://github.com/avantikanahak/NASA-PROJECT)**
+**🔴 Live Demo: [PASTE YOUR GITHUB PAGES URL HERE]https://github.com/avantikanahak/NASA-PROJECT
 
 > NASA Space Apps Challenge, Nagpur 2026 · Wainganga College of Engineering & Management (WCEM) · AstraVeda 2026 × ICTRD
 
